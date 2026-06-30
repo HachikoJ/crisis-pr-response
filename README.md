@@ -5,7 +5,7 @@
 ![公关危机](https://img.shields.io/badge/%E5%85%AC%E5%85%B3%E5%8D%B1%E6%9C%BA-%E5%93%8D%E5%BA%94%E5%A3%B0%E6%98%8E-2563eb)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
-[安装](#安装) · [案例预览](#案例预览) · [更新记录](#更新记录) · [免责声明](#免责声明) · [开源授权](#开源授权)
+[联系作者](#联系作者) · [安装](#安装) · [案例预览](#案例预览) · [更新记录](#更新记录) · [免责声明](#免责声明) · [开源授权](#开源授权)
 
 **公关危机一出现，先别嘴硬，先把事实、歉意、行动和法律风险边界写清楚。**
 
@@ -111,4 +111,29 @@ cp -R crisis-pr-response ~/.codex/skills/
 
 ## 开源授权
 
-本项目基于 [MIT License](LICENSE) 开源。
+本项目基于 [MIT License](LICENSE) 开源。你可以自由使用、复制、修改、合并、发布、分发、再授权或销售本项目副本，但须保留原始版权声明和许可声明。
+
+## 联系作者
+
+喜欢这个项目、想交流公关危机案例、反馈新风格，或者想请作者喝杯咖啡，可以通过下面方式联系：
+
+- GitHub：[HachikoJ](https://github.com/HachikoJ)
+- 微信：`hostrow`，添加时请备注 `公关危机回应技能`
+- 邮箱：`946106011@qq.com`
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>微信联系</strong><br>
+      <img src="assets/wechat-contact.png" alt="微信联系二维码" width="220">
+    </td>
+    <td align="center">
+      <strong>微信赞赏</strong><br>
+      <img src="assets/donate-wechat.png" alt="微信赞赏码" width="220">
+    </td>
+    <td align="center">
+      <strong>支付宝赞赏</strong><br>
+      <img src="assets/donate-alipay.png" alt="支付宝赞赏码" width="220">
+    </td>
+  </tr>
+</table>
