@@ -1,0 +1,7 @@
+interface:
+  display_name: "Crisis PR Response"
+  short_description: "生成带免责声明的公关危机回应声明"
+  default_prompt: "使用 $crisis-pr-response 为一次公关危机生成带法律风险提示的回应声明。"
+
+policy:
+  allow_implicit_invocation: true
